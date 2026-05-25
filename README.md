@@ -1,6 +1,4 @@
-# ejercicios-rest
-
-# Informe de Modificaciones
+# ejercicios-rest - Informe de Modificaciones
 
 ## Ejercicio 1 — Categories
 ### Título de Modificación
